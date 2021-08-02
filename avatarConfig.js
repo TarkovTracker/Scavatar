@@ -1,4 +1,9 @@
 module.exports = {
+  size: 256, // The x & y size of the avatars
+  outputDir: './dist',
+  props: {
+    primary: './props/primary/*.png'
+  },
   backgroundColors: [ // Hex color values with opacity bits
     0xF44336FF,
     0x9C27B0FF,

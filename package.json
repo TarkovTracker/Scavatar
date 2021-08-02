@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/TarkovTracker/Scavatar#readme",
   "dependencies": {
+    "cli-progress": "^3.9.0",
+    "fs-extra": "^10.0.0",
+    "glob": "^7.1.7",
     "jimp": "^0.16.1"
   }
 }
