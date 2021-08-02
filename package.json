@@ -1,0 +1,23 @@
+{
+  "name": "scavatar",
+  "version": "1.0.0",
+  "description": "Generate fan avatars for the game Escape From Tarkov",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarkovTracker/Scavatar.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/TarkovTracker/Scavatar/issues"
+  },
+  "homepage": "https://github.com/TarkovTracker/Scavatar#readme",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
